@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title: Digital CV
-description: Victoria's CV
+markdown:   kramdown
+style:  kjhealy
